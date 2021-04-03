@@ -1,0 +1,3 @@
+﻿  Button.cpp
+E:\SFML\MyProjects\FirstRPG\FirstRPG\Button.cpp(21,30): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+  FirstRPG.vcxproj -> E:\SFML\MyProjects\FirstRPG\Debug\FirstRPG.exe
